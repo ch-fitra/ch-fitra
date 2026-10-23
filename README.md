@@ -1,23 +1,16 @@
 <div align="center">
 
-# Chairul Fitra Ramadhan
+<img src="./hero.svg" alt="Chairul Fitra Ramadhan — AI Developer, animated profile banner" width="100%" />
 
-### AI Developer
+<br />
 
-<p>
-Building intelligent systems, AI-powered applications, and practical solutions for real-world problems.
-</p>
+<a href="https://www.linkedin.com/in/chairul-fitra-ramadhan-070958256">
+  <img src="https://img.shields.io/badge/CONNECT_ON_LINKEDIN-0E7490?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" />
+</a>
 
-<p>
-  <a href="https://github.com/ch-fitra">
-    <img src="https://img.shields.io/badge/GitHub-ch--fitra-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/chairul-fitra-ramadhan-070958256">
-    <img src="https://img.shields.io/badge/LinkedIn-Chairul%20Fitra%20Ramadhan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
+<br /><br />
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=AI+Developer;Building+Intelligent+Applications;Machine+Learning+%7C+Computer+Vision+%7C+RAG" alt="Typing SVG" />
+<sub>Building intelligent systems and AI-powered solutions for real-world problems.</sub>
 
 </div>
 
@@ -25,52 +18,62 @@ Building intelligent systems, AI-powered applications, and practical solutions f
 
 ## Tech Stack
 
-### AI / Machine Learning
+### Programming Languages
 <p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-161B22?style=flat-square&logo=python&logoColor=3776AB" alt="Python" />
+  <img src="https://img.shields.io/badge/JavaScript-161B22?style=flat-square&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-161B22?style=flat-square&logo=typescript&logoColor=3178C6" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/PHP-161B22?style=flat-square&logo=php&logoColor=777BB4" alt="PHP" />
+  <img src="https://img.shields.io/badge/Dart-161B22?style=flat-square&logo=dart&logoColor=54C5F8" alt="Dart" />
 </p>
 
-### AI Areas
+### Machine Learning
 <p>
-  <img src="https://img.shields.io/badge/Machine%20Learning-1f6feb?style=flat-square" />
-  <img src="https://img.shields.io/badge/Computer%20Vision-1f6feb?style=flat-square" />
-  <img src="https://img.shields.io/badge/RAG-1f6feb?style=flat-square" />
-  <img src="https://img.shields.io/badge/LLM%20Applications-1f6feb?style=flat-square" />
-  <img src="https://img.shields.io/badge/AI%20Automation-1f6feb?style=flat-square" />
+  <img src="https://img.shields.io/badge/Scikit--learn-161B22?style=flat-square&logo=scikitlearn&logoColor=F7931E" alt="Scikit-learn" />
 </p>
 
-### Backend / API
+### Computer Vision
 <p>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenCV-161B22?style=flat-square&logo=opencv&logoColor=5C3EE8" alt="OpenCV" />
 </p>
 
-### Database / Tools
+### Data Science
 <p>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-161B22?style=flat-square&logo=numpy&logoColor=4DABCF" alt="NumPy" />
+  <img src="https://img.shields.io/badge/Pandas-161B22?style=flat-square&logo=pandas&logoColor=9C8DEA" alt="Pandas" />
+  <img src="https://img.shields.io/badge/Jupyter-161B22?style=flat-square&logo=jupyter&logoColor=F37626" alt="Jupyter" />
 </p>
 
----
+### Frontend
+<p>
+  <img src="https://img.shields.io/badge/React-161B22?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/HTML5-161B22?style=flat-square&logo=html5&logoColor=E34F26" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-161B22?style=flat-square&logo=css&logoColor=1572B6" alt="CSS3" />
+  <img src="https://img.shields.io/badge/Bootstrap-161B22?style=flat-square&logo=bootstrap&logoColor=7952B3" alt="Bootstrap" />
+</p>
 
-## Connect
+### Backend
+<p>
+  <img src="https://img.shields.io/badge/FastAPI-161B22?style=flat-square&logo=fastapi&logoColor=009688" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/Laravel-161B22?style=flat-square&logo=laravel&logoColor=FF2D20" alt="Laravel" />
+  <img src="https://img.shields.io/badge/Node.js-161B22?style=flat-square&logo=nodedotjs&logoColor=5FA04E" alt="Node.js" />
+</p>
 
-<p align="center">
-  <a href="https://github.com/ch-fitra">
-    <img src="https://img.shields.io/badge/GitHub-ch--fitra-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/chairul-fitra-ramadhan-070958256">
-    <img src="https://img.shields.io/badge/LinkedIn-Chairul%20Fitra%20Ramadhan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
+### Database
+<p>
+  <img src="https://img.shields.io/badge/MySQL-161B22?style=flat-square&logo=mysql&logoColor=4479A1" alt="MySQL" />
+  <img src="https://img.shields.io/badge/MongoDB-161B22?style=flat-square&logo=mongodb&logoColor=47A248" alt="MongoDB" />
+</p>
+
+### DevOps
+<p>
+  <img src="https://img.shields.io/badge/Docker-161B22?style=flat-square&logo=docker&logoColor=2496ED" alt="Docker" />
+  <img src="https://img.shields.io/badge/Kubernetes-161B22?style=flat-square&logo=kubernetes&logoColor=326CE5" alt="Kubernetes" />
+  <img src="https://img.shields.io/badge/Linux-161B22?style=flat-square&logo=linux&logoColor=FCC624" alt="Linux" />
+</p>
+
+### Development Tools
+<p>
+  <img src="https://img.shields.io/badge/Git-161B22?style=flat-square&logo=git&logoColor=F05032" alt="Git" />
+  <img src="https://img.shields.io/badge/VS_Code-161B22?style=flat-square&logo=visualstudiocode&logoColor=22A7F2" alt="Visual Studio Code" />
 </p>
