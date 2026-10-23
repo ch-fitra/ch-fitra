@@ -1,0 +1,306 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1460" height="1078" viewBox="0 0 1460 1078" role="img" aria-labelledby="title desc">
+<title id="title">Tech Stack — Chairul Fitra Ramadhan</title>
+<desc id="desc">75 selected technologies in six distinct categories: Programming Languages, Frontend, Backend, Database, DevOps &amp; Infrastructure, and Development Tools.</desc>
+<defs>
+ <linearGradient id="background" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#111B2C"/><stop offset="1" stop-color="#0C1421"/></linearGradient>
+ <linearGradient id="cardBackground" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#132238"/><stop offset=".65" stop-color="#101B2D"/><stop offset="1" stop-color="#101728"/></linearGradient>
+ <linearGradient id="pillBackground" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#1B3046"/><stop offset="1" stop-color="#152538"/></linearGradient>
+ <pattern id="dots" width="22" height="22" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1" fill="#577896" opacity=".15"/></pattern>
+ <clipPath id="fullClip"><rect x="5" y="5" width="1450" height="1068" rx="22"/></clipPath>
+</defs>
+<rect x="1" y="1" width="1458" height="1076" rx="24" fill="url(#background)" stroke="#243349" stroke-width="1.5"/>
+<g clip-path="url(#fullClip)"><path d="M0 0H1460V1078H0Z" fill="url(#dots)" opacity=".22"/>
+<ellipse cx="1200" cy="70" rx="520" ry="250" fill="#116886" opacity=".045"/>
+</g>
+<g>
+<rect x="35" y="25" width="682" height="270" rx="22" fill="url(#cardBackground)" stroke="#31485E" stroke-width="1.35"/>
+<path d="M63 28 h118" stroke="#58CFF5" stroke-width="4" stroke-linecap="round" opacity=".88"/>
+<circle cx="75" cy="77" r="13" fill="#58CFF5" opacity=".12"/>
+<circle cx="75" cy="77" r="5" fill="#58CFF5"/>
+<text x="101" y="86" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="28" font-weight="700" fill="#EFF6FF">Programming Languages</text>
+<rect x="639" y="57" width="44" height="34" rx="11" fill="#20344B" stroke="#3C546A"/>
+<text x="661" y="80" text-anchor="middle" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="18" font-weight="700" fill="#58CFF5">10</text>
+<path d="M66 109H686" stroke="#2B4256" stroke-width="1" opacity=".8"/>
+
+<g><rect x="66" y="128" width="117" height="40" rx="12" fill="url(#pillBackground)" stroke="#395369" stroke-width="1"/>
+  <circle cx="83" cy="148" r="3.6" fill="#58CFF5" opacity=".9"/>
+  <text x="94" y="155.2" font-size="22" font-family="Inter,Segoe UI,Arial,sans-serif" font-weight="500" fill="#DFEAF4">Python</text></g>
+<g><rect x="194" y="128" width="155" height="40" rx="12" fill="url(#pillBackground)" stroke="#395369" stroke-width="1"/>
+  <circle cx="211" cy="148" r="3.6" fill="#58CFF5" opacity=".9"/>
+  <text x="222" y="155.2" font-size="22" font-family="Inter,Segoe UI,Arial,sans-serif" font-weight="500" fill="#DFEAF4">JavaScript</text></g>
+<g><rect x="360" y="128" width="157" height="40" rx="12" fill="url(#pillBackground)" stroke="#395369" stroke-width="1"/>
+  <circle cx="377" cy="148" r="3.6" fill="#58CFF5" opacity=".9"/>
+  <text x="388" y="155.2" font-size="22" font-family="Inter,Segoe UI,Arial,sans-serif" font-weight="500" fill="#DFEAF4">TypeScript</text></g>
+<g><rect x="528" y="128" width="87" height="40" rx="12" fill="url(#pillBackground)" stroke="#395369" stroke-width="1"/>
+  <circle cx="545" cy="148" r="3.6" fill="#58CFF5" opacity=".9"/>
+  <text x="556" y="155.2" font-size="22" font-family="Inter,Segoe UI,Arial,sans-serif" font-weight="500" fill="#DFEAF4">PHP</text></g>
+<g><rect x="66" y="177" width="87" height="40" rx="12" fill="url(#pillBackground)" stroke="#395369" stroke-width="1"/>
+  <circle cx="83" cy="197" r="3.6" fill="#58CFF5" opacity=".9"/>
+  <text x="94" y="204.2" font-size="22" font-family="Inter,Segoe UI,Arial,sans-serif" font-weight="500" fill="#DFEAF4">Dart</text></g>
+<g><rect x="164" y="177" width="92" height="40" rx="12" fill="url(#pillBackground)" stroke="#395369" stroke-width="1"/>
+  <circle cx="181" cy="197" r="3.6" fill="#58CFF5" opacity=".9"/>
+  <text x="192" y="204.2" font-size="22" font-family="Inter,Segoe UI,Arial,sans-serif" font-weight="500" fill="#DFEAF4">Java</text></g>
+<g><rect x="267" y="177" width="72" height="40" rx="12" fill="url(#pillBackground)" stroke="#395369" stroke-width="1"/>
+  <circle cx="284" cy="197" r="3.6" fill="#58CFF5" opacity=".9"/>
+  <text x="295" y="204.2" font-size="22" font-family="Inter,Segoe UI,Arial,sans-serif" font-weight="500" fill="#DFEAF4">Go</text></g>
+<g><rect x="350" y="177" width="95" height="40" rx="12" fill="url(#pillBackground)" stroke="#395369" stroke-width="1"/>
+  <circle cx="367" cy="197" r="3.6" fill="#58CFF5" opacity=".9"/>
+  <text x="378" y="204.2" font-size="22" font-family="Inter,Segoe UI,Arial,sans-serif" font-weight="500" fill="#DFEAF4">Bash</text></g>
+<g><rect x="456" y="177" width="160" height="40" rx="12" fill="url(#pillBackground)" stroke="#395369" stroke-width="1"/>
+  <circle cx="473" cy="197" r="3.6" fill="#58CFF5" opacity=".9"/>
+  <text x="484" y="204.2" font-size="22" font-family="Inter,Segoe UI,Arial,sans-serif" font-weight="500" fill="#DFEAF4">PowerShell</text></g>
+<g><rect x="66" y="226" width="86" height="40" rx="12" fill="url(#pillBackground)" stroke="#395369" stroke-width="1"/>
+  <circle cx="83" cy="246" r="3.6" fill="#58CFF5" opacity=".9"/>
+  <text x="94" y="253.2" font-size="22" font-family="Inter,Segoe UI,Arial,sans-serif" font-weight="500" fill="#DFEAF4">SQL</text></g>
+</g>
+<g>
+<rect x="743" y="25" width="682" height="270" rx="22" fill="url(#cardBackground)" stroke="#31485E" stroke-width="1.35"/>
+<path d="M771 28 h118" stroke="#68DFC5" stroke-width="4" stroke-linecap="round" opacity=".88"/>
+<circle cx="783" cy="77" r="13" fill="#68DFC5" opacity=".12"/>
+<circle cx="783" cy="77" r="5" fill="#68DFC5"/>
+<text x="809" y="86" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="28" font-weight="700" fill="#EFF6FF">Frontend</text>
+<rect x="1347" y="57" width="44" height="34" rx="11" fill="#20344B" stroke="#3C546A"/>
+<text x="1369" y="80" text-anchor="middle" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="18" font-weight="700" fill="#68DFC5">11</text>
+<path d="M774 109H1394" stroke="#2B4256" stroke-width="1" opacity=".8"/>
+
+<g><rect x="774" y="128" width="119" height="40" rx="12" fill="url(#pillBackground)" stroke="#395369" stroke-width="1"/>
+  <circle cx="791" cy="148" r="3.6" fill="#68DFC5" opacity=".9"/>
+  <text x="802" y="155.2" font-size="22" font-family="Inter,Segoe UI,Arial,sans-serif" font-weight="500" fill="#DFEAF4">HTML5</text></g>
+<g><rect x="904" y="128" width="101" height="40" rx="12" fill="url(#pillBackground)" stroke="#395369" stroke-width="1"/>
+  <circle cx="921" cy="148" r="3.6" fill="#68DFC5" opacity=".9"/>
+  <text x="932" y="155.2" font-size="22" font-family="Inter,Segoe UI,Arial,sans-serif" font-weight="500" fill="#DFEAF4">CSS3</text></g>
+<g><rect x="1016" y="128" width="102" height="40" rx="12" fill="url(#pillBackground)" stroke="#395369" stroke-width="1"/>
+  <circle cx="1033" cy="148" r="3.6" fill="#68DFC5" opacity=".9"/>
+  <text x="1044" y="155.2" font-size="22" font-family="Inter,Segoe UI,Arial,sans-serif" font-weight="500" fill="#DFEAF4">React</text></g>
+<g><rect x="1129" y="128" width="116" height="40" rx="12" fill="url(#pillBackground)" stroke="#395369" stroke-width="1"/>
+  <circle cx="1146" cy="148" r="3.6" fill="#68DFC5" opacity=".9"/>
+  <text x="1157" y="155.2" font-size="22" font-family="Inter,Segoe UI,Arial,sans-serif" font-weight="500" fill="#DFEAF4">Next.js</text></g>
+<g><rect x="1256" y="128" width="108" height="40" rx="12" fill="url(#pillBackground)" stroke="#395369" stroke-width="1"/>
+  <circle cx="1273" cy="148" r="3.6" fill="#68DFC5" opacity=".9"/>
+  <text x="1284" y="155.2" font-size="22" font-family="Inter,Segoe UI,Arial,sans-serif" font-weight="500" fill="#DFEAF4">Vue.js</text></g>
+<g><rect x="774" y="177" width="125" height="40" rx="12" fill="url(#pillBackground)" stroke="#395369" stroke-width="1"/>
+  <circle cx="791" cy="197" r="3.6" fill="#68DFC5" opacity=".9"/>
+  <text x="802" y="204.2" font-size="22" font-family="Inter,Segoe UI,Arial,sans-serif" font-weight="500" fill="#DFEAF4">Angular</text></g>
+<g><rect x="910" y="177" width="110" height="40" rx="12" fill="url(#pillBackground)" stroke="#395369" stroke-width="1"/>
+  <circle cx="927" cy="197" r="3.6" fill="#68DFC5" opacity=".9"/>
+  <text x="938" y="204.2" font-size="22" font-family="Inter,Segoe UI,Arial,sans-serif" font-weight="500" fill="#DFEAF4">Flutter</text></g>
+<g><rect x="1031" y="177" width="175" height="40" rx="12" fill="url(#pillBackground)" stroke="#395369" stroke-width="1"/>
+  <circle cx="1048" cy="197" r="3.6" fill="#68DFC5" opacity=".9"/>
+  <text x="1059" y="204.2" font-size="22" font-family="Inter,Segoe UI,Arial,sans-serif" font-weight="500" fill="#DFEAF4">React Native</text></g>
+<g><rect x="774" y="226" width="180" height="40" rx="12" fill="url(#pillBackground)" stroke="#395369" stroke-width="1"/>
+  <circle cx="791" cy="246" r="3.6" fill="#68DFC5" opacity=".9"/>
+  <text x="802" y="253.2" font-size="22" font-family="Inter,Segoe UI,Arial,sans-serif" font-weight="500" fill="#DFEAF4">Tailwind CSS</text></g>
+<g><rect x="965" y="226" width="145" height="40" rx="12" fill="url(#pillBackground)" stroke="#395369" stroke-width="1"/>
+  <circle cx="982" cy="246" r="3.6" fill="#68DFC5" opacity=".9"/>
+  <text x="993" y="253.2" font-size="22" font-family="Inter,Segoe UI,Arial,sans-serif" font-weight="500" fill="#DFEAF4">Bootstrap</text></g>
+<g><rect x="1121" y="226" width="84" height="40" rx="12" fill="url(#pillBackground)" stroke="#395369" stroke-width="1"/>
+  <circle cx="1138" cy="246" r="3.6" fill="#68DFC5" opacity=".9"/>
+  <text x="1149" y="253.2" font-size="22" font-family="Inter,Segoe UI,Arial,sans-serif" font-weight="500" fill="#DFEAF4">Vite</text></g>
+</g>
+<g>
+<rect x="35" y="319" width="682" height="326" rx="22" fill="url(#cardBackground)" stroke="#31485E" stroke-width="1.35"/>
+<path d="M63 322 h118" stroke="#A1B4FF" stroke-width="4" stroke-linecap="round" opacity=".88"/>
+<circle cx="75" cy="371" r="13" fill="#A1B4FF" opacity=".12"/>
+<circle cx="75" cy="371" r="5" fill="#A1B4FF"/>
+<text x="101" y="380" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="28" font-weight="700" fill="#EFF6FF">Backend</text>
+<rect x="639" y="351" width="44" height="34" rx="11" fill="#20344B" stroke="#3C546A"/>
+<text x="661" y="374" text-anchor="middle" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="18" font-weight="700" fill="#A1B4FF">14</text>
+<path d="M66 403H686" stroke="#2B4256" stroke-width="1" opacity=".8"/>
+
+<g><rect x="66" y="422" width="123" height="40" rx="12" fill="url(#pillBackground)" stroke="#395369" stroke-width="1"/>
+  <circle cx="83" cy="442" r="3.6" fill="#A1B4FF" opacity=".9"/>
+  <text x="94" y="449.2" font-size="22" font-family="Inter,Segoe UI,Arial,sans-serif" font-weight="500" fill="#DFEAF4">FastAPI</text></g>
+<g><rect x="200" y="422" width="117" height="40" rx="12" fill="url(#pillBackground)" stroke="#395369" stroke-width="1"/>
+  <circle cx="217" cy="442" r="3.6" fill="#A1B4FF" opacity=".9"/>
+  <text x="228" y="449.2" font-size="22" font-family="Inter,Segoe UI,Arial,sans-serif" font-weight="500" fill="#DFEAF4">Django</text></g>
+<g><rect x="328" y="422" width="302" height="40" rx="12" fill="url(#pillBackground)" stroke="#395369" stroke-width="1"/>
+  <circle cx="345" cy="442" r="3.6" fill="#A1B4FF" opacity=".9"/>
+  <text x="356" y="449.2" font-size="22" font-family="Inter,Segoe UI,Arial,sans-serif" font-weight="500" fill="#DFEAF4">Django REST Framework</text></g>
+<g><rect x="66" y="471" width="98" height="40" rx="12" fill="url(#pillBackground)" stroke="#395369" stroke-width="1"/>
+  <circle cx="83" cy="491" r="3.6" fill="#A1B4FF" opacity=".9"/>
+  <text x="94" y="498.2" font-size="22" font-family="Inter,Segoe UI,Arial,sans-serif" font-weight="500" fill="#DFEAF4">Flask</text></g>
+<g><rect x="175" y="471" width="123" height="40" rx="12" fill="url(#pillBackground)" stroke="#395369" stroke-width="1"/>
+  <circle cx="192" cy="491" r="3.6" fill="#A1B4FF" opacity=".9"/>
+  <text x="203" y="498.2" font-size="22" font-family="Inter,Segoe UI,Arial,sans-serif" font-weight="500" fill="#DFEAF4">Node.js</text></g>
+<g><rect x="309" y="471" width="150" height="40" rx="12" fill="url(#pillBackground)" stroke="#395369" stroke-width="1"/>
+  <circle cx="326" cy="491" r="3.6" fill="#A1B4FF" opacity=".9"/>
+  <text x="337" y="498.2" font-size="22" font-family="Inter,Segoe UI,Arial,sans-serif" font-weight="500" fill="#DFEAF4">Express.js</text></g>
+<g><rect x="470" y="471" width="118" height="40" rx="12" fill="url(#pillBackground)" stroke="#395369" stroke-width="1"/>
+  <circle cx="487" cy="491" r="3.6" fill="#A1B4FF" opacity=".9"/>
+  <text x="498" y="498.2" font-size="22" font-family="Inter,Segoe UI,Arial,sans-serif" font-weight="500" fill="#DFEAF4">NestJS</text></g>
+<g><rect x="66" y="520" width="113" height="40" rx="12" fill="url(#pillBackground)" stroke="#395369" stroke-width="1"/>
+  <circle cx="83" cy="540" r="3.6" fill="#A1B4FF" opacity=".9"/>
+  <text x="94" y="547.2" font-size="22" font-family="Inter,Segoe UI,Arial,sans-serif" font-weight="500" fill="#DFEAF4">Fastify</text></g>
+<g><rect x="190" y="520" width="119" height="40" rx="12" fill="url(#pillBackground)" stroke="#395369" stroke-width="1"/>
+  <circle cx="207" cy="540" r="3.6" fill="#A1B4FF" opacity=".9"/>
+  <text x="218" y="547.2" font-size="22" font-family="Inter,Segoe UI,Arial,sans-serif" font-weight="500" fill="#DFEAF4">Laravel</text></g>
+<g><rect x="320" y="520" width="166" height="40" rx="12" fill="url(#pillBackground)" stroke="#395369" stroke-width="1"/>
+  <circle cx="337" cy="540" r="3.6" fill="#A1B4FF" opacity=".9"/>
+  <text x="348" y="547.2" font-size="22" font-family="Inter,Segoe UI,Arial,sans-serif" font-weight="500" fill="#DFEAF4">CodeIgniter</text></g>
+<g><rect x="497" y="520" width="140" height="40" rx="12" fill="url(#pillBackground)" stroke="#395369" stroke-width="1"/>
+  <circle cx="514" cy="540" r="3.6" fill="#A1B4FF" opacity=".9"/>
+  <text x="525" y="547.2" font-size="22" font-family="Inter,Segoe UI,Arial,sans-serif" font-weight="500" fill="#DFEAF4">REST API</text></g>
+<g><rect x="66" y="569" width="136" height="40" rx="12" fill="url(#pillBackground)" stroke="#395369" stroke-width="1"/>
+  <circle cx="83" cy="589" r="3.6" fill="#A1B4FF" opacity=".9"/>
+  <text x="94" y="596.2" font-size="22" font-family="Inter,Segoe UI,Arial,sans-serif" font-weight="500" fill="#DFEAF4">GraphQL</text></g>
+<g><rect x="213" y="569" width="162" height="40" rx="12" fill="url(#pillBackground)" stroke="#395369" stroke-width="1"/>
+  <circle cx="230" cy="589" r="3.6" fill="#A1B4FF" opacity=".9"/>
+  <text x="241" y="596.2" font-size="22" font-family="Inter,Segoe UI,Arial,sans-serif" font-weight="500" fill="#DFEAF4">WebSocket</text></g>
+<g><rect x="386" y="569" width="248" height="40" rx="12" fill="url(#pillBackground)" stroke="#395369" stroke-width="1"/>
+  <circle cx="403" cy="589" r="3.6" fill="#A1B4FF" opacity=".9"/>
+  <text x="414" y="596.2" font-size="22" font-family="Inter,Segoe UI,Arial,sans-serif" font-weight="500" fill="#DFEAF4">OpenAPI / Swagger</text></g>
+</g>
+<g>
+<rect x="743" y="319" width="682" height="326" rx="22" fill="url(#cardBackground)" stroke="#31485E" stroke-width="1.35"/>
+<path d="M771 322 h118" stroke="#F0BA8D" stroke-width="4" stroke-linecap="round" opacity=".88"/>
+<circle cx="783" cy="371" r="13" fill="#F0BA8D" opacity=".12"/>
+<circle cx="783" cy="371" r="5" fill="#F0BA8D"/>
+<text x="809" y="380" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="28" font-weight="700" fill="#EFF6FF">Database</text>
+<rect x="1347" y="351" width="44" height="34" rx="11" fill="#20344B" stroke="#3C546A"/>
+<text x="1369" y="374" text-anchor="middle" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="18" font-weight="700" fill="#F0BA8D">6</text>
+<path d="M774 403H1394" stroke="#2B4256" stroke-width="1" opacity=".8"/>
+
+<g><rect x="774" y="422" width="119" height="40" rx="12" fill="url(#pillBackground)" stroke="#395369" stroke-width="1"/>
+  <circle cx="791" cy="442" r="3.6" fill="#F0BA8D" opacity=".9"/>
+  <text x="802" y="449.2" font-size="22" font-family="Inter,Segoe UI,Arial,sans-serif" font-weight="500" fill="#DFEAF4">MySQL</text></g>
+<g><rect x="904" y="422" width="167" height="40" rx="12" fill="url(#pillBackground)" stroke="#395369" stroke-width="1"/>
+  <circle cx="921" cy="442" r="3.6" fill="#F0BA8D" opacity=".9"/>
+  <text x="932" y="449.2" font-size="22" font-family="Inter,Segoe UI,Arial,sans-serif" font-weight="500" fill="#DFEAF4">PostgreSQL</text></g>
+<g><rect x="1082" y="422" width="132" height="40" rx="12" fill="url(#pillBackground)" stroke="#395369" stroke-width="1"/>
+  <circle cx="1099" cy="442" r="3.6" fill="#F0BA8D" opacity=".9"/>
+  <text x="1110" y="449.2" font-size="22" font-family="Inter,Segoe UI,Arial,sans-serif" font-weight="500" fill="#DFEAF4">MariaDB</text></g>
+<g><rect x="1225" y="422" width="112" height="40" rx="12" fill="url(#pillBackground)" stroke="#395369" stroke-width="1"/>
+  <circle cx="1242" cy="442" r="3.6" fill="#F0BA8D" opacity=".9"/>
+  <text x="1253" y="449.2" font-size="22" font-family="Inter,Segoe UI,Arial,sans-serif" font-weight="500" fill="#DFEAF4">SQLite</text></g>
+<g><rect x="774" y="471" width="146" height="40" rx="12" fill="url(#pillBackground)" stroke="#395369" stroke-width="1"/>
+  <circle cx="791" cy="491" r="3.6" fill="#F0BA8D" opacity=".9"/>
+  <text x="802" y="498.2" font-size="22" font-family="Inter,Segoe UI,Arial,sans-serif" font-weight="500" fill="#DFEAF4">MongoDB</text></g>
+<g><rect x="931" y="471" width="100" height="40" rx="12" fill="url(#pillBackground)" stroke="#395369" stroke-width="1"/>
+  <circle cx="948" cy="491" r="3.6" fill="#F0BA8D" opacity=".9"/>
+  <text x="959" y="498.2" font-size="22" font-family="Inter,Segoe UI,Arial,sans-serif" font-weight="500" fill="#DFEAF4">Redis</text></g>
+</g>
+<g>
+<rect x="35" y="669" width="682" height="382" rx="22" fill="url(#cardBackground)" stroke="#31485E" stroke-width="1.35"/>
+<path d="M63 672 h118" stroke="#86B4FF" stroke-width="4" stroke-linecap="round" opacity=".88"/>
+<circle cx="75" cy="721" r="13" fill="#86B4FF" opacity=".12"/>
+<circle cx="75" cy="721" r="5" fill="#86B4FF"/>
+<text x="101" y="730" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="28" font-weight="700" fill="#EFF6FF">DevOps &amp; Infrastructure</text>
+<rect x="639" y="701" width="44" height="34" rx="11" fill="#20344B" stroke="#3C546A"/>
+<text x="661" y="724" text-anchor="middle" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="18" font-weight="700" fill="#86B4FF">17</text>
+<path d="M66 753H686" stroke="#2B4256" stroke-width="1" opacity=".8"/>
+
+<g><rect x="66" y="772" width="118" height="40" rx="12" fill="url(#pillBackground)" stroke="#395369" stroke-width="1"/>
+  <circle cx="83" cy="792" r="3.6" fill="#86B4FF" opacity=".9"/>
+  <text x="94" y="799.2" font-size="22" font-family="Inter,Segoe UI,Arial,sans-serif" font-weight="500" fill="#DFEAF4">Docker</text></g>
+<g><rect x="195" y="772" width="224" height="40" rx="12" fill="url(#pillBackground)" stroke="#395369" stroke-width="1"/>
+  <circle cx="212" cy="792" r="3.6" fill="#86B4FF" opacity=".9"/>
+  <text x="223" y="799.2" font-size="22" font-family="Inter,Segoe UI,Arial,sans-serif" font-weight="500" fill="#DFEAF4">Docker Compose</text></g>
+<g><rect x="430" y="772" width="164" height="40" rx="12" fill="url(#pillBackground)" stroke="#395369" stroke-width="1"/>
+  <circle cx="447" cy="792" r="3.6" fill="#86B4FF" opacity=".9"/>
+  <text x="458" y="799.2" font-size="22" font-family="Inter,Segoe UI,Arial,sans-serif" font-weight="500" fill="#DFEAF4">Kubernetes</text></g>
+<g><rect x="66" y="821" width="198" height="40" rx="12" fill="url(#pillBackground)" stroke="#395369" stroke-width="1"/>
+  <circle cx="83" cy="841" r="3.6" fill="#86B4FF" opacity=".9"/>
+  <text x="94" y="848.2" font-size="22" font-family="Inter,Segoe UI,Arial,sans-serif" font-weight="500" fill="#DFEAF4">Linux (Ubuntu)</text></g>
+<g><rect x="275" y="821" width="104" height="40" rx="12" fill="url(#pillBackground)" stroke="#395369" stroke-width="1"/>
+  <circle cx="292" cy="841" r="3.6" fill="#86B4FF" opacity=".9"/>
+  <text x="303" y="848.2" font-size="22" font-family="Inter,Segoe UI,Arial,sans-serif" font-weight="500" fill="#DFEAF4">Nginx</text></g>
+<g><rect x="390" y="821" width="90" height="40" rx="12" fill="url(#pillBackground)" stroke="#395369" stroke-width="1"/>
+  <circle cx="407" cy="841" r="3.6" fill="#86B4FF" opacity=".9"/>
+  <text x="418" y="848.2" font-size="22" font-family="Inter,Segoe UI,Arial,sans-serif" font-weight="500" fill="#DFEAF4">PM2</text></g>
+<g><rect x="491" y="821" width="87" height="40" rx="12" fill="url(#pillBackground)" stroke="#395369" stroke-width="1"/>
+  <circle cx="508" cy="841" r="3.6" fill="#86B4FF" opacity=".9"/>
+  <text x="519" y="848.2" font-size="22" font-family="Inter,Segoe UI,Arial,sans-serif" font-weight="500" fill="#DFEAF4">SSH</text></g>
+<g><rect x="66" y="870" width="109" height="40" rx="12" fill="url(#pillBackground)" stroke="#395369" stroke-width="1"/>
+  <circle cx="83" cy="890" r="3.6" fill="#86B4FF" opacity=".9"/>
+  <text x="94" y="897.2" font-size="22" font-family="Inter,Segoe UI,Arial,sans-serif" font-weight="500" fill="#DFEAF4">Vercel</text></g>
+<g><rect x="186" y="870" width="112" height="40" rx="12" fill="url(#pillBackground)" stroke="#395369" stroke-width="1"/>
+  <circle cx="203" cy="890" r="3.6" fill="#86B4FF" opacity=".9"/>
+  <text x="214" y="897.2" font-size="22" font-family="Inter,Segoe UI,Arial,sans-serif" font-weight="500" fill="#DFEAF4">Netlify</text></g>
+<g><rect x="309" y="870" width="152" height="40" rx="12" fill="url(#pillBackground)" stroke="#395369" stroke-width="1"/>
+  <circle cx="326" cy="890" r="3.6" fill="#86B4FF" opacity=".9"/>
+  <text x="337" y="897.2" font-size="22" font-family="Inter,Segoe UI,Arial,sans-serif" font-weight="500" fill="#DFEAF4">Cloudflare</text></g>
+<g><rect x="472" y="870" width="174" height="40" rx="12" fill="url(#pillBackground)" stroke="#395369" stroke-width="1"/>
+  <circle cx="489" cy="890" r="3.6" fill="#86B4FF" opacity=".9"/>
+  <text x="500" y="897.2" font-size="22" font-family="Inter,Segoe UI,Arial,sans-serif" font-weight="500" fill="#DFEAF4">VPS Hosting</text></g>
+<g><rect x="66" y="919" width="201" height="40" rx="12" fill="url(#pillBackground)" stroke="#395369" stroke-width="1"/>
+  <circle cx="83" cy="939" r="3.6" fill="#86B4FF" opacity=".9"/>
+  <text x="94" y="946.2" font-size="22" font-family="Inter,Segoe UI,Arial,sans-serif" font-weight="500" fill="#DFEAF4">GitHub Actions</text></g>
+<g><rect x="278" y="919" width="179" height="40" rx="12" fill="url(#pillBackground)" stroke="#395369" stroke-width="1"/>
+  <circle cx="295" cy="939" r="3.6" fill="#86B4FF" opacity=".9"/>
+  <text x="306" y="946.2" font-size="22" font-family="Inter,Segoe UI,Arial,sans-serif" font-weight="500" fill="#DFEAF4">GitLab CI/CD</text></g>
+<g><rect x="468" y="919" width="169" height="40" rx="12" fill="url(#pillBackground)" stroke="#395369" stroke-width="1"/>
+  <circle cx="485" cy="939" r="3.6" fill="#86B4FF" opacity=".9"/>
+  <text x="496" y="946.2" font-size="22" font-family="Inter,Segoe UI,Arial,sans-serif" font-weight="500" fill="#DFEAF4">Prometheus</text></g>
+<g><rect x="66" y="968" width="126" height="40" rx="12" fill="url(#pillBackground)" stroke="#395369" stroke-width="1"/>
+  <circle cx="83" cy="988" r="3.6" fill="#86B4FF" opacity=".9"/>
+  <text x="94" y="995.2" font-size="22" font-family="Inter,Segoe UI,Arial,sans-serif" font-weight="500" fill="#DFEAF4">Grafana</text></g>
+<g><rect x="203" y="968" width="135" height="40" rx="12" fill="url(#pillBackground)" stroke="#395369" stroke-width="1"/>
+  <circle cx="220" cy="988" r="3.6" fill="#86B4FF" opacity=".9"/>
+  <text x="231" y="995.2" font-size="22" font-family="Inter,Segoe UI,Arial,sans-serif" font-weight="500" fill="#DFEAF4">Tailscale</text></g>
+<g><rect x="349" y="968" width="228" height="40" rx="12" fill="url(#pillBackground)" stroke="#395369" stroke-width="1"/>
+  <circle cx="366" cy="988" r="3.6" fill="#86B4FF" opacity=".9"/>
+  <text x="377" y="995.2" font-size="22" font-family="Inter,Segoe UI,Arial,sans-serif" font-weight="500" fill="#DFEAF4">Cloudflare Tunnel</text></g>
+</g>
+<g>
+<rect x="743" y="669" width="682" height="382" rx="22" fill="url(#cardBackground)" stroke="#31485E" stroke-width="1.35"/>
+<path d="M771 672 h118" stroke="#C6A8FE" stroke-width="4" stroke-linecap="round" opacity=".88"/>
+<circle cx="783" cy="721" r="13" fill="#C6A8FE" opacity=".12"/>
+<circle cx="783" cy="721" r="5" fill="#C6A8FE"/>
+<text x="809" y="730" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="28" font-weight="700" fill="#EFF6FF">Development Tools</text>
+<rect x="1347" y="701" width="44" height="34" rx="11" fill="#20344B" stroke="#3C546A"/>
+<text x="1369" y="724" text-anchor="middle" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="18" font-weight="700" fill="#C6A8FE">17</text>
+<path d="M774 753H1394" stroke="#2B4256" stroke-width="1" opacity=".8"/>
+
+<g><rect x="774" y="772" width="242" height="40" rx="12" fill="url(#pillBackground)" stroke="#395369" stroke-width="1"/>
+  <circle cx="791" cy="792" r="3.6" fill="#C6A8FE" opacity=".9"/>
+  <text x="802" y="799.2" font-size="22" font-family="Inter,Segoe UI,Arial,sans-serif" font-weight="500" fill="#DFEAF4">Visual Studio Code</text></g>
+<g><rect x="1027" y="772" width="180" height="40" rx="12" fill="url(#pillBackground)" stroke="#395369" stroke-width="1"/>
+  <circle cx="1044" cy="792" r="3.6" fill="#C6A8FE" opacity=".9"/>
+  <text x="1055" y="799.2" font-size="22" font-family="Inter,Segoe UI,Arial,sans-serif" font-weight="500" fill="#DFEAF4">Visual Studio</text></g>
+<g><rect x="1218" y="772" width="114" height="40" rx="12" fill="url(#pillBackground)" stroke="#395369" stroke-width="1"/>
+  <circle cx="1235" cy="792" r="3.6" fill="#C6A8FE" opacity=".9"/>
+  <text x="1246" y="799.2" font-size="22" font-family="Inter,Segoe UI,Arial,sans-serif" font-weight="500" fill="#DFEAF4">Cursor</text></g>
+<g><rect x="774" y="821" width="85" height="40" rx="12" fill="url(#pillBackground)" stroke="#395369" stroke-width="1"/>
+  <circle cx="791" cy="841" r="3.6" fill="#C6A8FE" opacity=".9"/>
+  <text x="802" y="848.2" font-size="22" font-family="Inter,Segoe UI,Arial,sans-serif" font-weight="500" fill="#DFEAF4">Kiro</text></g>
+<g><rect x="870" y="821" width="199" height="40" rx="12" fill="url(#pillBackground)" stroke="#395369" stroke-width="1"/>
+  <circle cx="887" cy="841" r="3.6" fill="#C6A8FE" opacity=".9"/>
+  <text x="898" y="848.2" font-size="22" font-family="Inter,Segoe UI,Arial,sans-serif" font-weight="500" fill="#DFEAF4">Android Studio</text></g>
+<g><rect x="1080" y="821" width="72" height="40" rx="12" fill="url(#pillBackground)" stroke="#395369" stroke-width="1"/>
+  <circle cx="1097" cy="841" r="3.6" fill="#C6A8FE" opacity=".9"/>
+  <text x="1108" y="848.2" font-size="22" font-family="Inter,Segoe UI,Arial,sans-serif" font-weight="500" fill="#DFEAF4">Git</text></g>
+<g><rect x="1163" y="821" width="115" height="40" rx="12" fill="url(#pillBackground)" stroke="#395369" stroke-width="1"/>
+  <circle cx="1180" cy="841" r="3.6" fill="#C6A8FE" opacity=".9"/>
+  <text x="1191" y="848.2" font-size="22" font-family="Inter,Segoe UI,Arial,sans-serif" font-weight="500" fill="#DFEAF4">GitHub</text></g>
+<g><rect x="774" y="870" width="132" height="40" rx="12" fill="url(#pillBackground)" stroke="#395369" stroke-width="1"/>
+  <circle cx="791" cy="890" r="3.6" fill="#C6A8FE" opacity=".9"/>
+  <text x="802" y="897.2" font-size="22" font-family="Inter,Segoe UI,Arial,sans-serif" font-weight="500" fill="#DFEAF4">DBeaver</text></g>
+<g><rect x="917" y="870" width="246" height="40" rx="12" fill="url(#pillBackground)" stroke="#395369" stroke-width="1"/>
+  <circle cx="934" cy="890" r="3.6" fill="#C6A8FE" opacity=".9"/>
+  <text x="945" y="897.2" font-size="22" font-family="Inter,Segoe UI,Arial,sans-serif" font-weight="500" fill="#DFEAF4">MySQL Workbench</text></g>
+<g><rect x="1174" y="870" width="182" height="40" rx="12" fill="url(#pillBackground)" stroke="#395369" stroke-width="1"/>
+  <circle cx="1191" cy="890" r="3.6" fill="#C6A8FE" opacity=".9"/>
+  <text x="1202" y="897.2" font-size="22" font-family="Inter,Segoe UI,Arial,sans-serif" font-weight="500" fill="#DFEAF4">phpMyAdmin</text></g>
+<g><rect x="774" y="919" width="251" height="40" rx="12" fill="url(#pillBackground)" stroke="#395369" stroke-width="1"/>
+  <circle cx="791" cy="939" r="3.6" fill="#C6A8FE" opacity=".9"/>
+  <text x="802" y="946.2" font-size="22" font-family="Inter,Segoe UI,Arial,sans-serif" font-weight="500" fill="#DFEAF4">MongoDB Compass</text></g>
+<g><rect x="1036" y="919" width="89" height="40" rx="12" fill="url(#pillBackground)" stroke="#395369" stroke-width="1"/>
+  <circle cx="1053" cy="939" r="3.6" fill="#C6A8FE" opacity=".9"/>
+  <text x="1064" y="946.2" font-size="22" font-family="Inter,Segoe UI,Arial,sans-serif" font-weight="500" fill="#DFEAF4">npm</text></g>
+<g><rect x="1136" y="919" width="102" height="40" rx="12" fill="url(#pillBackground)" stroke="#395369" stroke-width="1"/>
+  <circle cx="1153" cy="939" r="3.6" fill="#C6A8FE" opacity=".9"/>
+  <text x="1164" y="946.2" font-size="22" font-family="Inter,Segoe UI,Arial,sans-serif" font-weight="500" fill="#DFEAF4">pnpm</text></g>
+<g><rect x="1249" y="919" width="75" height="40" rx="12" fill="url(#pillBackground)" stroke="#395369" stroke-width="1"/>
+  <circle cx="1266" cy="939" r="3.6" fill="#C6A8FE" opacity=".9"/>
+  <text x="1277" y="946.2" font-size="22" font-family="Inter,Segoe UI,Arial,sans-serif" font-weight="500" fill="#DFEAF4">pip</text></g>
+<g><rect x="774" y="968" width="152" height="40" rx="12" fill="url(#pillBackground)" stroke="#395369" stroke-width="1"/>
+  <circle cx="791" cy="988" r="3.6" fill="#C6A8FE" opacity=".9"/>
+  <text x="802" y="995.2" font-size="22" font-family="Inter,Segoe UI,Arial,sans-serif" font-weight="500" fill="#DFEAF4">Composer</text></g>
+<g><rect x="937" y="968" width="83" height="40" rx="12" fill="url(#pillBackground)" stroke="#395369" stroke-width="1"/>
+  <circle cx="954" cy="988" r="3.6" fill="#C6A8FE" opacity=".9"/>
+  <text x="965" y="995.2" font-size="22" font-family="Inter,Segoe UI,Arial,sans-serif" font-weight="500" fill="#DFEAF4">n8n</text></g>
+<g><rect x="1031" y="968" width="100" height="40" rx="12" fill="url(#pillBackground)" stroke="#395369" stroke-width="1"/>
+  <circle cx="1048" cy="988" r="3.6" fill="#C6A8FE" opacity=".9"/>
+  <text x="1059" y="995.2" font-size="22" font-family="Inter,Segoe UI,Arial,sans-serif" font-weight="500" fill="#DFEAF4">Make</text></g>
+</g>
+</svg>
