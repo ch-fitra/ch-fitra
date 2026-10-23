@@ -14,6 +14,6 @@
 
 <br />
 
-<img src="./tech-stack.svg" alt="75 technologies across Programming Languages, Frontend, Backend, Database, DevOps &amp; Infrastructure, and Development Tools" width="100%" />
+<img src="./tech-stack.svg" alt="42 technologies across Programming Languages, Frontend, Backend, Database, and DevOps &amp; Infrastructure" width="100%" />
 
 </div>
