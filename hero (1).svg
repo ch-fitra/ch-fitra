@@ -1,0 +1,70 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1100" height="236" viewBox="0 0 1100 236" role="img" aria-labelledby="heroTitle heroDesc">
+  <title id="heroTitle">Chairul Fitra Ramadhan — AI Developer</title>
+  <desc id="heroDesc">Minimal navy and cyan header. The name and AI Developer title remain permanently visible, with a delicate animated light sweep and subtle orbital accents.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0D1525"/>
+      <stop offset=".56" stop-color="#0B1525"/>
+      <stop offset="1" stop-color="#0C2232"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#2DD4BF"/>
+      <stop offset=".55" stop-color="#38BDF8"/>
+      <stop offset="1" stop-color="#818CF8"/>
+    </linearGradient>
+    <linearGradient id="sheen" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#ffffff" stop-opacity="0" />
+      <stop offset=".42" stop-color="#ffffff" stop-opacity="0" />
+      <stop offset=".5" stop-color="#C5F8FF" stop-opacity=".68" />
+      <stop offset=".58" stop-color="#ffffff" stop-opacity="0" />
+      <stop offset="1" stop-color="#ffffff" stop-opacity="0" />
+    </linearGradient>
+    <radialGradient id="softLight" cx=".5" cy=".5" r=".6">
+      <stop offset="0" stop-color="#38BDF8" stop-opacity=".12" />
+      <stop offset="1" stop-color="#38BDF8" stop-opacity="0" />
+    </radialGradient>
+    <pattern id="grid" width="34" height="34" patternUnits="userSpaceOnUse">
+      <path d="M34 0H0V34" fill="none" stroke="#87A3BF" stroke-opacity=".065" stroke-width="1"/>
+    </pattern>
+    <mask id="textClip">
+      <rect width="1100" height="236" fill="black"/>
+      <text x="550" y="115" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="52" font-weight="750" letter-spacing="-1.5" fill="white">Chairul Fitra Ramadhan</text>
+    </mask>
+  </defs>
+  <rect x="1" y="1" width="1098" height="234" rx="18" fill="url(#bg)" stroke="#284156" stroke-width="1.4"/>
+  <rect x="2" y="2" width="1096" height="232" rx="17" fill="url(#grid)"/>
+  <ellipse cx="550" cy="117" rx="460" ry="175" fill="url(#softLight)"/>
+
+  <!-- Balanced, understated AI network details; no extra wording. -->
+  <g stroke="#55A8B9" stroke-opacity=".19" stroke-width="1" fill="none">
+    <path d="M60 75L130 52L188 89L158 158L81 164Z M130 52L158 158 M60 75L188 89"/>
+    <path d="M1040 75L970 52L912 89L942 158L1019 164Z M970 52L942 158 M1040 75L912 89"/>
+    <circle cx="126" cy="115" r="83" stroke-dasharray="2 12"/>
+    <circle cx="974" cy="115" r="83" stroke-dasharray="2 12"/>
+  </g>
+  <g fill="#47C9CF" fill-opacity=".52">
+    <circle cx="60" cy="75" r="3"/><circle cx="130" cy="52" r="3"/><circle cx="188" cy="89" r="3"/><circle cx="158" cy="158" r="3"/><circle cx="81" cy="164" r="3"/>
+    <circle cx="1040" cy="75" r="3"/><circle cx="970" cy="52" r="3"/><circle cx="912" cy="89" r="3"/><circle cx="942" cy="158" r="3"/><circle cx="1019" cy="164" r="3"/>
+  </g>
+  <g fill="none" stroke="url(#accent)" stroke-width="2.2" stroke-linecap="round" opacity=".62">
+    <circle cx="126" cy="115" r="83" stroke-dasharray="32 490">
+      <animateTransform attributeName="transform" type="rotate" from="0 126 115" to="360 126 115" dur="38s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="974" cy="115" r="83" stroke-dasharray="32 490">
+      <animateTransform attributeName="transform" type="rotate" from="360 974 115" to="0 974 115" dur="38s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+
+  <!-- Name remains fully rendered at all times. -->
+  <text x="550" y="115" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="52" font-weight="750" letter-spacing="-1.5" fill="#F3F7FF">Chairul Fitra Ramadhan</text>
+  <rect x="-470" y="61" width="260" height="73" fill="url(#sheen)" mask="url(#textClip)" opacity=".56">
+    <animate attributeName="x" values="-470;1300" dur="12s" repeatCount="indefinite"/>
+  </rect>
+
+  <rect x="475" y="145" width="150" height="36" rx="9" fill="#123845" stroke="#2A6775" stroke-width="1"/>
+  <text x="550" y="168" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="15" font-weight="700" letter-spacing="1.6" fill="#7EF1E8">AI DEVELOPER</text>
+  <rect x="453" y="199" width="194" height="2.5" rx="1.25" fill="#24445A"/>
+  <rect x="453" y="199" width="58" height="2.5" rx="1.25" fill="url(#accent)">
+    <animate attributeName="x" values="453;589;453" dur="8s" repeatCount="indefinite"/>
+  </rect>
+</svg>
