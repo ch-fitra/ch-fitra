@@ -1,0 +1,82 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="270" viewBox="0 0 1100 270" role="img" aria-labelledby="title desc">
+  <title id="title">Chairul Fitra Ramadhan — AI Developer</title>
+  <desc id="desc">A refined, dark banner with a permanently visible name, a gentle animated light sweep, a sliding cyan underline, and an abstract AI network motif.</desc>
+  <defs>
+    <linearGradient id="surface" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#111827"/>
+      <stop offset=".60" stop-color="#0C1424"/>
+      <stop offset="1" stop-color="#0B1F30"/>
+    </linearGradient>
+    <radialGradient id="aura" cx=".85" cy=".49" r=".55">
+      <stop offset="0" stop-color="#22D3EE" stop-opacity=".12"/>
+      <stop offset="1" stop-color="#22D3EE" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#2DD4BF"/>
+      <stop offset=".65" stop-color="#38BDF8"/>
+      <stop offset="1" stop-color="#818CF8"/>
+    </linearGradient>
+    <linearGradient id="sheen" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#ffffff" stop-opacity="0"/>
+      <stop offset=".48" stop-color="#ffffff" stop-opacity="0"/>
+      <stop offset=".5" stop-color="#E0FDFF" stop-opacity=".85"/>
+      <stop offset=".52" stop-color="#ffffff" stop-opacity="0"/>
+      <stop offset="1" stop-color="#ffffff" stop-opacity="0"/>
+    </linearGradient>
+    <pattern id="mesh" width="34" height="34" patternUnits="userSpaceOnUse">
+      <path d="M34 0H0V34" fill="none" stroke="#6683A5" stroke-opacity=".075" stroke-width="1"/>
+    </pattern>
+    <mask id="name-mask">
+      <rect width="1100" height="270" fill="black"/>
+      <text x="72" y="119" font-family="Inter, Segoe UI, Helvetica, Arial, sans-serif" font-size="49" font-weight="700" letter-spacing="-1.3" fill="white">Chairul Fitra Ramadhan</text>
+    </mask>
+  </defs>
+
+  <rect x="1" y="1" width="1098" height="268" rx="19" fill="url(#surface)" stroke="#294156" stroke-width="1.5"/>
+  <rect x="2" y="2" width="1096" height="266" rx="19" fill="url(#mesh)"/>
+  <rect x="2" y="2" width="1096" height="266" rx="19" fill="url(#aura)"/>
+
+  <rect x="72" y="40" width="7" height="7" rx="3.5" fill="#2DD4BF"/>
+  <text x="92" y="48" font-family="Inter, Segoe UI, Helvetica, Arial, sans-serif" font-size="12" font-weight="600" letter-spacing="2.3" fill="#90AABE">CREATING WITH INTELLIGENCE</text>
+
+  <!-- The white name is always present. Only a soft highlight travels across it. -->
+  <text x="72" y="119" font-family="Inter, Segoe UI, Helvetica, Arial, sans-serif" font-size="49" font-weight="700" letter-spacing="-1.3" fill="#F3F8FF">Chairul Fitra Ramadhan</text>
+  <rect x="-350" y="64" width="240" height="75" fill="url(#sheen)" mask="url(#name-mask)" opacity=".38">
+    <animate attributeName="x" values="-350;900" dur="10s" repeatCount="indefinite" />
+  </rect>
+
+  <rect x="72" y="144" width="153" height="32" rx="8" fill="#123445" stroke="#26536A" stroke-width="1"/>
+  <text x="89" y="165" font-family="Inter, Segoe UI, Helvetica, Arial, sans-serif" font-size="14" font-weight="700" letter-spacing="1.5" fill="#7DEBE2">AI DEVELOPER</text>
+
+  <text x="72" y="213" font-family="Inter, Segoe UI, Helvetica, Arial, sans-serif" font-size="14" font-weight="500" letter-spacing=".6" fill="#9AADC2">MACHINE LEARNING  /  COMPUTER VISION  /  RAG</text>
+  <rect x="72" y="233" width="498" height="2.5" rx="1.25" fill="#203D51"/>
+  <rect x="72" y="233" width="94" height="2.5" rx="1.25" fill="url(#accent)">
+    <animate attributeName="x" values="72;476;72" dur="8s" repeatCount="indefinite" />
+  </rect>
+
+  <!-- Reserved visual area: quiet AI graph with a very slow orbit. -->
+  <g fill="none" stroke="#3F7189" stroke-opacity=".32">
+    <circle cx="934" cy="134" r="88" stroke-width="1.1"/>
+    <circle cx="934" cy="134" r="67" stroke-width="1" stroke-dasharray="2 10"/>
+    <circle cx="934" cy="134" r="42" stroke-width="1"/>
+  </g>
+  <g transform="rotate(0 934 134)">
+    <circle cx="934" cy="134" r="88" fill="none" stroke="url(#accent)" stroke-width="2.5" stroke-linecap="round" stroke-dasharray="58 495" opacity=".78"/>
+    <animateTransform attributeName="transform" type="rotate" from="0 934 134" to="360 934 134" dur="40s" repeatCount="indefinite"/>
+  </g>
+  <g stroke="#72C6CE" stroke-opacity=".4" stroke-width="1.1">
+    <path d="M892 111 L933 91 L969 115 L950 156 L905 158 Z" fill="none" />
+    <path d="M892 111 L950 156 M933 91 L905 158 M969 115 L905 158" fill="none" stroke-opacity=".25"/>
+  </g>
+  <g fill="#69D9D5">
+    <circle cx="892" cy="111" r="3.5"/>
+    <circle cx="933" cy="91" r="3.5"/>
+    <circle cx="969" cy="115" r="3.5"/>
+    <circle cx="950" cy="156" r="3.5"/>
+    <circle cx="905" cy="158" r="3.5"/>
+  </g>
+  <circle cx="934" cy="134" r="9" fill="#113E51" stroke="#60D6DD" stroke-opacity=".75" stroke-width="1.2"/>
+  <circle cx="934" cy="134" r="3" fill="#7DEBE2">
+    <animate attributeName="opacity" values=".5;1;.5" dur="5s" repeatCount="indefinite" />
+  </circle>
+</svg>
