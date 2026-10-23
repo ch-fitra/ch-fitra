@@ -64,38 +64,6 @@ Building intelligent systems, AI-powered applications, and practical solutions f
 
 ---
 
-## Featured Projects
-
-### AI Projects
-- **[AI-Support-Triage](https://github.com/ch-fitra/AI-Support-Triage)**  
-  AI-based support workflow and issue classification system.
-
-- **[Deepfake-HoaxBuster](https://github.com/ch-fitra/Deepfake-HoaxBuster)**  
-  AI project for detecting manipulated and misleading digital media.
-
-- **[Chatbot_RAG_DEMO](https://github.com/ch-fitra/Chatbot_RAG_DEMO)**  
-  Retrieval-Augmented Generation chatbot for knowledge-based interaction.
-
-### Other Projects
-- **[student-management-app](https://github.com/ch-fitra/student-management-app)**  
-  Student management application with modern architecture.
-
-- **[Web-Dashboard-Monitoring](https://github.com/ch-fitra/Web-Dashboard-Monitoring)**  
-  Monitoring dashboard for visualization and system tracking.
-
----
-
-## GitHub Stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=ch-fitra&show_icons=true&theme=github_dark&hide_border=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ch-fitra&layout=compact&theme=github_dark&hide_border=true" />
-
-</div>
-
----
-
 ## Connect
 
 <p align="center">
