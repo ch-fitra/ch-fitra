@@ -10,12 +10,10 @@
 
 <br /><br />
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=30&duration=2500&pause=1000&color=60A5FA&center=true&vCenter=true&width=800&lines=Tech+Stack;Tools+I+Work+With;AI+Developer+Toolkit;Core+Technologies" alt="Animated Tech Stack Title" />
-
-</div>
+<img src="./stack-title.gif" alt="Tech Stack • What I Build With • From Code to Production • Tools of the Trade" width="85%" />
 
 <br />
 
-<div align="center">
-  <img src="./tech-stack.svg" width="100%" alt="Tech Stack" />
+<img src="./tech-stack.svg" alt="75 technologies across Programming Languages, Frontend, Backend, Database, DevOps &amp; Infrastructure, and Development Tools" width="100%" />
+
 </div>
